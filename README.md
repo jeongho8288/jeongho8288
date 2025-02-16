@@ -14,25 +14,9 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
 ### 👻 Who wants to know more about me, click it! 👻
 
 <div align=center>
-<!--[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)-->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongho8288@gmail.com)](mailto:jeongho8288@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongho8288@gmail.com)](mailto:jeongho8288@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 </div>
-
----
-
-<div align=center>
-  
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeongho8288&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
-
-
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -65,8 +49,16 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
   <img src="https://img.shields.io/badge/Atmel Studio-ed1c40?style=for-the-badge&logo=atmelstudio&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
+---
 
-<br>
+<div align=center>
+  
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeongho8288&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
 <!--
 ![Jeongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho8288&show_icons=true&theme=radical)
