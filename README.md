@@ -16,7 +16,7 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
 <div align=center>
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Ajeongho8288%40gmail.com)](mailto:jeongho8288@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/[YourLinkedInUsername])](https://www.linkedin.com/in/[YourLinkedInUsername])  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EB%B0%95-11b273349/)](https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EB%B0%95-11b273349/)  
   
 </div>
 
