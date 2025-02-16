@@ -9,9 +9,9 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
 > 🟡 **Computer Vision** - Object Detection/Segmentation, Depth estimation, Video deblurring
 
 ### 🤖 Careers
-> 🟢 **Student Intern** at KIST (Korea Institute of Science and Technology), **Easy Lab** (2024.7 ~ )  
+> 🟢 **Student Intern** at KW univ, (Embedded A.I. system Lab) **Easy Lab** (2024.7 ~ )  
 
-### 👀 Who wants to know more about me, click it!
+### 👻 Who wants to know more about me, click it! 👻
 
 <div align=center>
 <!--[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)-->
