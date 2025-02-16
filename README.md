@@ -44,10 +44,10 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
   <img src="https://img.shields.io/badge/Visual Studio-56347c?style=for-the-badge&logo=visualstudio&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-2396f3?style=for-the-badge&logo=visualstudiocode&logoColor=white"> &nbsp
   <br>
-  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp <br>
+  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Atmel Studio-ed1c40?style=for-the-badge&logo=atmelstudio&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
