@@ -14,7 +14,10 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
 ### 👻 Who wants to know more about me, click it! 👻
 
 <div align=center>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Ajeongho8288%40gmail.com)](mailto:jeongho8288@gmail.com)
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Ajeongho8288%40gmail.com)](mailto:jeongho8288@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/[YourLinkedInUsername])](https://www.linkedin.com/in/[YourLinkedInUsername])  
+  
 </div>
 
 
