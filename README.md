@@ -47,21 +47,17 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp <br>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Atmel Studio-ed1c40?style=for-the-badge&logo=atmelstudio&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
----
 
-<div align=center>
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
+
+<!--<div align=center>
   
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeongho8288&count_private=true
 )](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
-
-<!--
-![Jeongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho8288&show_icons=true&theme=radical)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with studying major research
