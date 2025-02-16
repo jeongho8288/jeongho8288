@@ -29,7 +29,7 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
   <br>
   <img src="https://img.shields.io/badge/VHDL-B0C4DE?style=for-the-badge&logo=vhdl&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/PowerPoint-cc0000?style=for-the-badge&logo=powerpoint&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp
+  <img src="https://img.shields.io/badge/Linux-FFFF00?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/pytorch-FF7F50.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-FF8C00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
@@ -42,7 +42,7 @@ I'm studying  interestingly at Computer Vision & Deep learning & Autonomous driv
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-56347c?style=for-the-badge&logo=visualstudio&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-87CEFA?style=for-the-badge&logo=visualstudiocode&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"> &nbsp
   <br>
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /> &nbsp
